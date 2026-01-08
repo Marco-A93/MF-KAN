@@ -470,4 +470,6 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 Built with PyTorch | Inspired by [Howard et al. (2024)](https://arxiv.org/abs/2410.14764)
 
+<sub>Remember: ALL CAPS when you spell the model name.</sub>
+
 </div>
